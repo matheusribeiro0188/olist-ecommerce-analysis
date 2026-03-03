@@ -39,8 +39,8 @@ olist-analysis/
 ├── notebooks/
 │   └── Olist.ipynb                # Análise em Python (pandas + matplotlib + seaborn)
 │
-├── dashboard/
-│   └── olist_dashboard.pbix       # Dashboard Power BI
+├── imagens/
+│   └── 
 │
 └── README.md
 ```
