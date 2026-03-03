@@ -40,7 +40,7 @@ olist-analysis/
 │   └── Olist.ipynb                # Análise em Python (pandas + matplotlib + seaborn)
 │
 ├── imagens/
-│   └── 
+│   └── Graficos e print do dashboard
 │
 └── README.md
 ```
